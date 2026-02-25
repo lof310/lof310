@@ -4,7 +4,6 @@
 </h2>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <!-- Left column: description + badges -->
   <div style="flex: 1; min-width: 300px;">
     <p><em>Independent researcher · Cuba · 16 years old</em><br>
     <em>Autodidact, focused on the real development of AGI.</em></p>
@@ -21,10 +20,6 @@
       <img src="https://img.shields.io/badge/🌐_Cuba-location?style=for-the-badge&color=0A66C2" alt="Location Cuba">
       <img src="https://img.shields.io/badge/focus-AGI-0A66C2?style=for-the-badge" alt="Focus AGI">
     </p>
-  </div>
-  <!-- Right column: matrix gif -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="matrix code rain" style="border-radius: 5px;">
   </div>
 </div>
 
