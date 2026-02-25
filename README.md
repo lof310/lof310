@@ -2,7 +2,9 @@
   Leinier Orama
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle; margin-left: 10px;">
 </h2>
+
 ![Tech Stack](https://icoziv.com/api?i=python,cplusplus,pytorch,tensorflow,jupyter,linux,git,wandb&theme=dark)
+
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
