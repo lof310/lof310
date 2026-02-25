@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200" alt="cat typing on laptop" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="cat typing on laptop" />
 </p>
 
 # Leinier Orama
