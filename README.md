@@ -59,7 +59,7 @@ leinier = {
 
 ---
 
-📫 Let's connect
+## 📫 Contact
 
 · GitHub: @lof310
 · Email: lof310w@gmail.com
