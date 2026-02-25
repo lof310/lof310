@@ -1,33 +1,35 @@
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="typing cat" />
-  </div>
-  <div>
-    <h1>Leinier Orama</h1>
-    <p><em>Independent Researcher · Cuba · 16 years old</em></p>
-    <p><strong>Autodidact, focused on the real development of AGI.</strong><br>
-    I spend my days reading papers, experimenting with models, and writing code.</p>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <!-- Left column: name, cat gif, description, badges -->
+  <div style="flex: 1; min-width: 300px;">
+    <h1>
+      Leinier Orama
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" alt="typing cat" style="vertical-align: middle; margin-left: 10px;">
+    </h1>
+    <p><em>Independent researcher · Cuba · 16 years old</em></p>
+    <p>Autodidact, focused on the real development of AGI.</p>
     <p>
       <a href="https://github.com/lof310">
-        <img src="https://img.shields.io/github/followers/lof310?label=FOLLOW&style=for-the-badge&logo=github&color=0A66C2&logoColor=white" alt="GitHub followers">
+        <img src="https://img.shields.io/github/followers/lof310?label=follow&style=for-the-badge&logo=github&color=0A66C2&logoColor=white" alt="GitHub followers">
       </a>
       <a href="https://github.com/lof310">
         <img src="https://komarev.com/ghpvc/?username=lof310&style=for-the-badge&color=0A66C2" alt="Profile views">
       </a>
       <a href="mailto:lof310w@gmail.com">
-        <img src="https://img.shields.io/badge/lof310w%40gmail.com-EMAIL?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
+        <img src="https://img.shields.io/badge/lof310w@gmail.com-email?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
       </a>
+      <img src="https://img.shields.io/badge/Cuba-location?style=for-the-badge&color=0A66C2" alt="Location">
+      <img src="https://img.shields.io/badge/focus-AGI-0A66C2?style=for-the-badge" alt="Focus AGI">
     </p>
+  </div>
+  <!-- Right column: matrix gif -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="matrix code rain" style="border-radius: 5px;">
   </div>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="matrix code rain" />
-</p>
-
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,31 +44,13 @@
 
 ---
 
-## 📈 GitHub Analytics
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lof310&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&text_color=333&icon_color=0A66C2&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lof310&layout=compact&hide_title=true&theme=transparent&text_color=333&bg_color=00000000" width="48%" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🔬 **Research:** Deep learning architectures, neural scaling laws, and alignment.
-- 📚 **Reading:** Daily arXiv papers on AGI, reinforcement learning, and cognitive architectures.
-- 🛠️ **Building:** Experimental models and tools to explore the path toward general intelligence.
-- 🌱 **Learning:** Constantly expanding my knowledge in mathematics, computer science, and philosophy of mind.
-
----
-
-## 📫 Get in touch
-
-- **GitHub:** [@lof310](https://github.com/lof310)
-- **Email:** [lof310w@gmail.com](mailto:lof310w@gmail.com)
+- GitHub: [@lof310](https://github.com/lof310)
+- Email: [lof310w@gmail.com](mailto:lof310w@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=400&lines=while+True:+learn()" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=400&lines=while+True:+learn()" alt="Typing SVG" />
 </p>
