@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; text-align: center;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <div>
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="typing cat" />
   </div>
-  <div style="flex: 2; min-width: 300px; text-align: center;">
+  <div>
     <h1>Leinier Orama</h1>
     <p><em>Independent Researcher · Cuba · 16 years old</em></p>
     <p><strong>Autodidact, focused on the real development of AGI.</strong><br>
@@ -19,10 +19,11 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="matrix code rain" />
-  </div>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="matrix code rain" />
+</p>
 
 ---
 
