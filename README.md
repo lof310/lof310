@@ -9,7 +9,7 @@
     <em>Autodidact, focused on the real development of AGI.</em></p>
     <p>
       <a href="https://github.com/lof310">
-        <img src="https://img.shields.io/github/followers/lof310?label=follow&style=for-the-badge&logo=github&color=0A66C2&logoColor=white" alt="GitHub followers">
+        <img src="https://img.shields.io/github/followers/lof310?label=follow&style=for-the-badge&logo=github" alt="GitHub followers">
       </a>
       <a href="https://github.com/lof310">
         <img src="https://komarev.com/ghpvc/?username=lof310&style=for-the-badge&color=0A66C2" alt="Profile views">
