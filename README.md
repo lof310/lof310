@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="cat typing on laptop" />
-</p>
-
-# Leinier Orama
+<h2>
+  Leinier Orama
+  <img src="https://media.tenor.com/0AVbKGY_MxMAAAAi/cat-typing.gif" width="50" alt="cat typing" />
+</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/lof310?style=flat-square&logo=github&label=Follow&color=0A66C2)](https://github.com/lof310)
 [![Profile views](https://komarev.com/ghpvc/?username=lof310&style=flat-square&color=0A66C2)](https://github.com/lof310)
