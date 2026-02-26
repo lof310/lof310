@@ -1,6 +1,6 @@
 <h2 align="center">
   Leinier Orama
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" style="vertical-align: middle;">
 </h2>
 
 <p align="center"><em>Independent researcher · Cuba · 16 years old</em><br>
