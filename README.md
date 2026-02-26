@@ -22,7 +22,7 @@
 
 ---
 
-## Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```python
 leinier = {
@@ -54,16 +54,16 @@ leinier = {
 
 ---
 
-## Streak Stats
+### Streak Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lof310&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-## Activity Graph
+### Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lof310&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
-## 📫 Contact
+### 📫 Contact
 - GitHub: @lof310
 - Email: lof310w@gmail.com
