@@ -1,46 +1,45 @@
-<h2>
+<h2 align="center">
   Leinier Orama
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle; margin-left: 10px;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;">
 </h2>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <p><em>Independent researcher · Cuba · 16 years old</em><br>
-    <em>Autodidact, focused on the real development of AGI.</em></p>
-    <p>
-      <a href="https://github.com/lof310">
-        <img src="https://img.shields.io/github/followers/lof310?label=follow&style=for-the-badge&logo=github" alt="GitHub followers">
-      </a>
-      <a href="https://github.com/lof310">
-        <img src="https://komarev.com/ghpvc/?username=lof310&style=for-the-badge&color=0A66C2" alt="Profile views">
-      </a>
-      <a href="mailto:lof310w@gmail.com">
-        <img src="https://img.shields.io/badge/lof310w@gmail.com-email?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
-      </a>
-      <img src="https://img.shields.io/badge/🌐_Cuba-location?style=for-the-badge&color=0A66C2" alt="Location Cuba">
-      <img src="https://img.shields.io/badge/focus-AGI-0A66C2?style=for-the-badge" alt="Focus AGI">
-    </p>
-  </div>
+<p align="center"><em>Independent researcher · Cuba · 16 years old</em><br>
+<em>Autodidact, focused on AGI development</em></p>
+
+<div align="center">
+  <a href="https://github.com/lof310">
+    <img src="https://img.shields.io/github/followers/lof310?label=Follow&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/lof310">
+    <img src="https://komarev.com/ghpvc/?username=lof310&style=for-the-badge&color=0A66C2" />
+  </a>
+  <a href="mailto:lof310w@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lof310w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Cuba-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AGI-0A66C2?style=for-the-badge" />
 </div>
 
 ---
 
-Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+## Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-</p>
+</div>
 
 ---
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+## About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</div>
 
 ```python
 leinier = {
@@ -50,9 +49,6 @@ leinier = {
     "architecture": ["neural networks", "deep learning", "AGI concepts"],
     "challenge": "Building towards AGI, one step at a time"
 }
-```
-
----
 
 ## 📫 Contact
 
