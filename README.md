@@ -49,11 +49,11 @@ leinier = {
     "architecture": ["neural networks", "deep learning", "AGI concepts"],
     "challenge": "Building towards AGI, one step at a time"
 }
+```
 
 ## 📫 Contact
-
-· GitHub: @lof310
-· Email: lof310w@gmail.com
+- GitHub: @lof310
+- Email: lof310w@gmail.com
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=400&lines=while+True:+learn()" alt="Typing SVG" />
