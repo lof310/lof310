@@ -35,9 +35,10 @@
 </div>
 
 ---
+
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-`python
+```python
 leinier = {
     "pronouns": "he/him",
     "code": ["Python", "C++", "PyTorch", "TensorFlow", "Jupyter"],
@@ -47,32 +48,20 @@ leinier = {
 }
 `
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=500&lines=while+True:+learn();while+True:+build();while+True:+share()" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=500&lines=while+True:+learn();while+True:+build()" />
 </div>
 
 ---
 
-GitHub Stats
+## Streak Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lof310&showicons=true&theme=tokyonight&hideborder=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lof310&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lof310&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
----
-
-Streak Stats
+## Activity Graph
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lof310&theme=tokyonight&hide_border=true" width="70%" />
-</div>
-
----
-
-Ativity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lof310&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lof310&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ## 📫 Contact
