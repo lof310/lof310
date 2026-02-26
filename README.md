@@ -41,7 +41,7 @@
 ```python
 leinier = {
     "pronouns": "he/him",
-    "code": ["Python", "C++", "PyTorch", "TensorFlow", "Jupyter"],
+    "code": ["Python", "C++", "PyTorch", "Matplotlib", "Jupyter"],
     "tools": ["Linux", "Git", "Weights & Biases"],
     "architecture": ["neural networks", "deep learning", "AGI concepts"],
     "challenge": "Building towards AGI, one step at a time"
