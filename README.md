@@ -46,7 +46,7 @@ leinier = {
     "architecture": ["neural networks", "deep learning", "AGI concepts"],
     "challenge": "Building towards AGI, one step at a time"
 }
-`
+```
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=500&lines=while+True:+learn();while+True:+build()" />
