@@ -65,5 +65,5 @@ leinier = {
 </div>
 
 ### 📫 Contact
-- GitHub: @lof310
+- GitHub: [@lof310](https://github.com/lof310)
 - Email: lof310w@gmail.com
