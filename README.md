@@ -18,6 +18,7 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Cuba-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AGI-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AGI_Research-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
