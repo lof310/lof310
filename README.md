@@ -44,8 +44,8 @@ leinier = {
     "pronouns": "he/him",
     "code": ["Python", "C++", "Matplotlib", "Jupyter"],
     "tools": ["Linux", "PyTorch", "Git", "Weights & Biases"],
-    "architecture": ["neural networks", "deep learning", "AGI concepts"],
-    "challenge": "Building towards AGI, one step at a time"
+    "architecture": ["neural networks", "deep learning", "scalable attention architectures"],
+    "mission": "Building towards AGI, one step at a time"
 }
 ```
 
