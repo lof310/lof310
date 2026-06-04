@@ -8,7 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/lof310">
-    <img src="https://img.shields.io/github/followers/lof310?label=Follow&style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/lof310">
     <img src="https://komarev.com/ghpvc/?username=lof310&style=for-the-badge&color=0A66C2" />
@@ -57,7 +56,7 @@ leinier = {
 
 ### Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lof310&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=lof310&theme=tokyonight&hide_border=true" />
 </div>
 
 ### Activity Graph
